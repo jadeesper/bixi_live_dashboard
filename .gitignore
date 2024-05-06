@@ -1,0 +1,5 @@
+.env
+*.env
+venv
+password.py
+*.cpython-37.pyc
