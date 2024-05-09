@@ -31,5 +31,5 @@ The application is fully containerized, simplifying deployment and ensuring cons
 docker compose up --build
 ```
 
-4. Once the process is complete, access the dashboard through your web browser at 'localhost' or [0.0.0.0:8050](0.0.0.0:8050).
+4. Once the process is complete, access the dashboard through your web browser at 'localhost' or 0.0.0.0:8050.
 
